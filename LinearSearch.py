@@ -1,3 +1,4 @@
+
 # Linear Search in Python
 def linearSearch(x, n, s):
     for i in range(0, n):
@@ -18,3 +19,5 @@ if result == -1:
     print("Number is Not found! ")
 else:
     print("Number is found ")
+
+    
